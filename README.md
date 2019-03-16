@@ -4,4 +4,4 @@
 
 ### preview
 
-![](https://github.com/Lemonreds/resume.me/blob/master/preview/gray.png)
+![Preview](https://github.com/Lemonreds/resume.me/blob/master/img/gray.png)
